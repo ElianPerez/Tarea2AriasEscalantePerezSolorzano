@@ -36,3 +36,5 @@ Un assert es una prueba enfocada a la lógica algorítmica de un código. Para e
 Es una biblioteca de Python que anexa aplicaciones como PyFlakes, pycodestyle entre otros scripts. Su gran utilidad radica en que es una herramienta para encontrar errores de programación (errores tipo PEP8). Otra gran ventaja de Flake 8 es su capacidad de determinar la complejidad ciclomática de un código. Esto es la cantidad de líneas de flujo independientes que tiene un código, la cual en exceso puede representar una carga innecesaria a la hora de compilar y así generar un código no óptimo.
 
 Codigo que Carlos no puso bien
+
+nueva actualizacion, se debe crear un commit y poner comentarios
